@@ -17,7 +17,7 @@ By leveraging a **Supervisor-Worker agentic pattern**, this tool eliminates the 
 * **Data Retrieval:** Tavily Search API
 * **Language:** Python 3.13+
 
-## ⚙️ Quick Start
+##  Quick Start
 1. **Clone the repo**
 2. **Install dependencies**
 3. **Configure Environment**
